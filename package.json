@@ -1,0 +1,31 @@
+{
+  "name": "epoch-convertion",
+  "version": "1.0.0",
+  "description": "Date to epoch / epoch to date",
+  "main": "index.js",
+	"engines": {
+    "node": ">=4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UPPERCASEuser/epoch-convertion"
+  },
+  "keywords": [
+    "epoch",
+    "epoch-convertion",
+    "time",
+    "date",
+    "convertion",
+    "epoch-to-date",
+	"date-to-epoch"
+  ],
+  "author": "UPPERCASEuser",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/UPPERCASEuser/epoch-convertion/issues"
+  },
+  "homepage": "https://github.com/UPPERCASEuser/epoch-convertion#readme",
+}
